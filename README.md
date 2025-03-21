@@ -2,7 +2,7 @@
 
 A simple web application to rate and review your favorite ramen dishes. View thumbnails of ramen options, see detailed info, add new ramen entries, and delete them as needed—all with a clean, user-friendly interface.
 
-Live Demo: [https://wairimu273.github.io/ramen-rating-app](https://wairimu273.github.io/ramen-rating-app)
+Live Demo: [https://wairimu273.github.io/ramen-rating-app](https://wairimu273.github.io/ramen-rating-app/)
 
 ## Features
 - **View Ramen Thumbnails**: Browse a list of ramen dishes with images.
